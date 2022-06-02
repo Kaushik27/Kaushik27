@@ -1,4 +1,4 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Kaushik Mandal
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kaushik Mandal
 
 ---
 An astute learner working as a Senior Software Engineer @ EPAM Systems. Experience with the below technologies.
