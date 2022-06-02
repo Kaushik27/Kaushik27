@@ -2,6 +2,7 @@
 
 ---
 I am Kaushik Mandal and I a Senior Software Engineer @ EPAM Systems. I am from India, living in Kolkata. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 About me:
 
 - 🔭 Primarily working on **Java ,Spring Boot, Microservices and AWS**
