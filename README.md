@@ -1,7 +1,7 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kaushik Mandal
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ---
-An astute learner working as a Senior Software Engineer @ EPAM Systems. Experience with the below technologies.
+I am Kaushik Mandal and I a Senior Software Engineer @ EPAM Systems. I am from India, living in Kolkata. Experienced with the below technologies:
 
 - 🔭 Primarily working on **Java ,Spring Boot, Microservices and AWS**
 
@@ -18,8 +18,11 @@ An astute learner working as a Senior Software Engineer @ EPAM Systems. Experien
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
 
 ---
-### &#x1f4c8; Checkout My GitHub Stats 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Kaushik27/Kaushik27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik27&hide=java,html,tex&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Kaushikm27/Kaushikm27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaushik27&show_icons=true&line_height=27&count_private=true&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kaushik's GitHub Stats" />
+</a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriyab&hide=html,css&theme=radical)](https://github.com/saipriyab/github-readme-stats) -->
-
-[![Kaushik Mandal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik27&theme=radical)](https://github.com/Kaushik27/github-readme-stats)
