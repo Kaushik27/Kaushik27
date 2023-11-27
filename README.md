@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ---
-I am Kaushik Mandal and I am a Senior Software Engineer @EPAM Systems. I am from India, living in Kolkata.
+I am Kaushik Mandal, Lead Software Engineer @EPAM Systems. I am from India, living in Kolkata.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 About me:
