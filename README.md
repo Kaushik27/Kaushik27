@@ -40,10 +40,6 @@ About me:
 
 <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude Code" width="50" height="50"/> <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="GitHub Copilot" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/openai/openai-original.svg" alt="OpenAI Codex" width="50" height="50"/> <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" width="50" height="50"/> ![Windsurf](https://img.shields.io/badge/Windsurf-0B6FFF?style=flat-square&logo=codeium&logoColor=white) ![Devin](https://img.shields.io/badge/Devin-6B4FBB?style=flat-square&logoColor=white)
 
-**🤖 AI / GenAI**
-
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google_Cloud_ADK-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-8A2BE2?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-1a1a2e?style=flat-square)
-
 ---
 
 ## 🏅 Certifications
