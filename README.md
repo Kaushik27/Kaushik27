@@ -19,36 +19,10 @@ You can find me on [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.
 
 ## 🧰 Technologies & Tools
 
-### Backend & Core
-[![Java](https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
-[![Spring](https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)
-[![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
-[![Nodejs](https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
-[![Gradle](https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-original.svg)](https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg)
-
-### Cloud & DevOps
-[![AWS](https://cdn.worldvectorlogo.com/logos/aws-2.svg)](https://aws.amazon.com/)
-[![Azure](https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg)](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg)
-[![Google Cloud](https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg)](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg)
-[![Docker](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg)
-[![Kubernetes](https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
-[![Jenkins](https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg)](https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg)
-
-### Databases
-[![Mongodb](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg)
-[![Postgresql](https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg)
-[![Oracle](https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg)](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg)
-
-### Tools
-[![Git](https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)
-[![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)](https://www.postman.com/)
+[![Java](https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) [![Spring](https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg) [![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) [![Nodejs](https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) [![Gradle](https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-original.svg)](https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg) [![AWS](https://cdn.worldvectorlogo.com/logos/aws-2.svg)](https://aws.amazon.com/) [![Azure](https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg)](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg) [![Google Cloud](https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg)](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg) [![Docker](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) [![Kubernetes](https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg) [![Jenkins](https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg)](https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg) [![Mongodb](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg) [![Postgresql](https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg) [![Oracle](https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg)](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) [![Git](https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) [![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)](https://www.postman.com/) [![Kafka](https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg) [![Redis](https://github.com/devicons/devicon/raw/master/icons/redis/redis-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg) [![Terraform](https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg)
 
 ### 🤖 AI / GenAI
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_Cloud_ADK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=for-the-badge)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google_Cloud_ADK-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![LLM](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-1a1a2e?style=flat-square)
 
 ---
 
@@ -61,5 +35,4 @@ You can find me on [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.
 
 ## 📈 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik27&hide=java,html,text&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/Kaushik27/Kaushik27)
-[![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushik27&show_icons=true&line_height=27&count_private=true&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Kaushik27/Kaushik27)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik27&hide=java,html,text&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/Kaushik27/Kaushik27) [![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushik27&show_icons=true&line_height=27&count_private=true&title_color=f45fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Kaushik27/Kaushik27)
