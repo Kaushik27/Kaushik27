@@ -6,7 +6,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 About me:
 
-- 🔭 Currently building with **Java, Spring Boot, Microservices, AWS** — and integrating **GenAI/LLM APIs** into production systems
+- 🔭 Currently building with **Java, Spring Boot, Microservices, AWS** - and integrating **GenAI/LLM APIs** into production systems
 
 - 🤖 Working with **Claude API, Anthropic SDK, MCP (Model Context Protocol), RAG pipelines, tool calling, and agent-based workflows**
 
@@ -36,9 +36,9 @@ About me:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg" alt="Datadog" width="50" height="50"/> <img src="https://cdn.simpleicons.org/newrelic/00AC9E" alt="New Relic" width="50" height="50"/> <img src="https://cdn.simpleicons.org/snyk/4C4A73" alt="Snyk" width="50" height="50"/> <img src="https://cdn.simpleicons.org/checkmarx/54B848" alt="Checkmarx" width="50" height="50"/> <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="JMeter" width="50" height="50"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="50" height="50"/>
 
-**🤖 AI / GenAI**
+**🤖 AI / GenAI & Coding Tools**
 
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google_Cloud_ADK-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-8A2BE2?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-1a1a2e?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google_Cloud_ADK-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-0B6FFF?style=flat-square&logo=codeium&logoColor=white) ![Devin](https://img.shields.io/badge/Devin-6B4FBB?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![LLM Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-8A2BE2?style=flat-square) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-1a1a2e?style=flat-square)
 
 ---
 
