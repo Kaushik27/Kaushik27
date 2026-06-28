@@ -30,7 +30,7 @@ About me:
 
 **Databases**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis / Elasticache" width="50" height="50"/> <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" alt="DynamoDB" width="50" height="50"/> <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Cosmos DB" width="50" height="50"/> <img src="https://cdn.simpleicons.org/ibm/052FAD" alt="IBM DB2" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis / Elasticache" width="50" height="50"/>
 
 **DevOps, Observability & Testing**
 
@@ -39,6 +39,10 @@ About me:
 **🤖 AI / GenAI**
 
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google_Cloud_ADK-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-8A2BE2?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-1a1a2e?style=flat-square)
+
+**🧠 AI Coding Tools**
+
+<img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude Code" width="50" height="50"/> <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="GitHub Copilot" width="50" height="50"/> <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI Codex" width="50" height="50"/> <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="50" height="50"/> <img src="https://cdn.simpleicons.org/codeium/09B6A2" alt="Windsurf" width="50" height="50"/> ![Devin](https://img.shields.io/badge/Devin-6B4FBB?style=flat-square&logoColor=white)
 
 ---
 
